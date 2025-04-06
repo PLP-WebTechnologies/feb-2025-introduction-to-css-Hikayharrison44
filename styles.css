@@ -1,0 +1,50 @@
+/* ID Selector */
+#main-header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+  }
+  
+  /* Class Selector */
+  .content {
+    background-color: #f9f9f9;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    width: 80%;
+    border-radius: 10px;
+    font-family: 'Georgia', serif;
+  }
+  
+  /* Paragraph Styling */
+  .paragraph {
+    color: #333;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  
+  /* Image Styling */
+  .Invest-Now {
+    width: 100%;
+    height: 800px;
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #4a90e2;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+  }
+  
+  .footer-text {
+    font-family: 'Courier New', Courier, monospace;
+  }
